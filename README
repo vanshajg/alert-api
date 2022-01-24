@@ -1,0 +1,5 @@
+Framework: springboot 
+Logging: TBD
+Monitoring: Prometheus
+DB: Postgres / Aurora
+
