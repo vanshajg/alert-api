@@ -1,0 +1,6 @@
+- connect to db
+- make scheduler and pass to queue
+- listen to queue to push to db
+- make api which uses db
+- add health checks
+- runnable on k8s
